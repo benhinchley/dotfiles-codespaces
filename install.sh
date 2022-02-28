@@ -35,4 +35,4 @@ link_dotfile() {
 # dotfiles
 ################################################################################
 
-link_dotfile "git/gitconfig.config" "$HOME/.gitconfig"
+link_dotfile "git/gitconfig.conf" $HOME/.gitconfig
